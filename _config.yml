@@ -1,0 +1,14 @@
+layout_spectrum: 0.6205189388711005
+typography_spectrum: 0.9349626074545085
+color:
+  brandStrength: 0.35134204267524183
+  lightness: 0.8023576219566166
+  saturation: 0.5195448801387101
+  rhythmicContrast: 0.3691754098981619
+  brandColors:
+    - '#71A7FE'
+    - '#399AE7'
+    - '#3B407C'
+    - '#547AB1'
+    - '#CEAFC0'
+name: a commonplace
